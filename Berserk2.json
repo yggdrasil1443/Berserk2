@@ -1,0 +1,17 @@
+{
+  "title": "Berserk2",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1640853360",
+      "groups": {
+        "": "/proxy/api/mangasee/chapter/Berserk-chapter-226-index-2"
+      }
+    }
+  }
+}
